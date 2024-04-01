@@ -1,5 +1,8 @@
 # Leaf-classification Project 🌿
 
+🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto) and [Niccolò Balestrieri](https://github.com/NiccoloBalestrieri)
+
+
 This repository contains the work for the ANN&DL project by the ANN Group for the Artificial Neural Network and Deep Learning course, focusing on the classification of leaves as healthy or unhealthy using deep learning techniques. 🍃
 
 ## Dataset Inspection 📊
